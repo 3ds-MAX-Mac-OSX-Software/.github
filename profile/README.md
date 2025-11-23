@@ -1,6 +1,6 @@
 # 3dsMAX Mac Professional License
 
-<img src="https://images.seeklogo.com/logo-png/48/2/3ds-max-logo-png_seeklogo-482396.png" width="200" alt="App icon" align="left"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-3ds-max-icon.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>3ds MAX for macOS</h3>
